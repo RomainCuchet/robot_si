@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-kitronik-clip-detector": "github:kitronikltd/pxt-kitronik-clip-detector#v1.0.0"
+        "pxt-kitronik-clip-detector": "github:kitronikltd/pxt-kitronik-clip-detector#v1.0.0",
+        "pxt-kitronik-klip-motor": "github:kitronikltd/pxt-kitronik-klip-motor#v1.2.0"
     },
     "files": [
         "main.blocks",
